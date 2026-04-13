@@ -283,13 +283,13 @@ function App() {
         <div className="max-w-6xl mx-auto px-6">
           <div className={`text-center transform transition-all duration-1000 ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'}`}>
 
-            <div className="mb-12">
+            {/* <div className="mb-12">
               <img
                 src="images/image.png"
                 alt="Priyanka Pulipaka"
                 className="w-36 h-36 rounded-full mx-auto mb-6 object-cover border-4 border-brown/30 shadow-lg"
               />
-            </div>
+            </div> */}
             <h1 className="text-5xl md:text-6xl font-display text-black mb-6 tracking-wide">
               PRIYANKA PULIPAKA
             </h1>

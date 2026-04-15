@@ -58,20 +58,7 @@ function App() {
       highlightsLink: "",
       certificateLink: ""
     },
-    {
-      company: "Webster University",
-      role: "Data Analyst - Student Assistant",
-      location: "Saint Louis, Missouri",
-      dates: "Jan. 2023 - Dec. 2023",
-      highlights: [
-        "Developed predictive analytics models using logistic regression and decision trees to forecast institutional metrics and evaluate program outcomes, improving forecast accuracy by 12%+.",
-        "Examined datasets across 5+ university departments using SQL, Python, and R to identify trends in enrollment, program performance, and resource utilization.",
-        "Automated recurring reporting workflows using SQL and Python, reducing manual report preparation time by 40%+ and improving reporting efficiency for administrative teams.",
-        "Delivered Tableau and Power BI visualizations to track enrollment trends, program performance, and departmental KPIs, improving reporting accessibility for university stakeholders."
-      ],
-      highlightsLink: "",
-      certificateLink: ""
-    },
+   
     {
       company: "NTT Data",
       role: "Data Analyst",
